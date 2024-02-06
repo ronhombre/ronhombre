@@ -26,3 +26,7 @@ Ron first started programming mods for games and eventually found himself dabbli
 ## Notable Projects
 ### [KyberKotlin](https://github.com/ronhombre/KyberKotlin)
 - A Post-Quantum Assymetric Encryption using Learning-With-Errors (LWE) problem over module lattices. This implementation is based on NIST FIPS 203 and is fully written in 100% Kotlin.
+### [BarrettReduceKotlinExample](https://github.com/ronhombre/BarrettReduceKotlinExample)
+- A Kotlin example implementation for the Barrett Reduction Algorithm.
+### [MontgomeryArithmeticKotlinExample](https://github.com/ronhombre/MontgomeryArithmeticKotlinExample)
+- A Kotlin example implementation for the Montgomery Arithmetic involving Montgomery Forms and Reduction.
