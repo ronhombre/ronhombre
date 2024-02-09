@@ -1,14 +1,14 @@
 # Ron Lauren Hombre
 ## Bio
-Ron first started programming mods for games and eventually found himself dabbling in industry-level codes. Soon after, he started learning machine learning then cryptology.
-| Language |Skills                               |Self Score |
-|----------|-------------------------------------|-----------|
-|Java      |Android, Java Apps                   |10/10      |
-|JS        |Web Frontend, Node.js                |9/10       |
-|PHP       |Web Backend                          |8/10       |
-|Kotlin    |Android, Kotlin Apps, Multiplatform  |9/10       |
-|C#        |Windows Forms, Unity                 |7/10       |
-|Python    |Machine Learning                     |4/10       |
+Ron first started programming mods for games and eventually found himself dabbling in industry-level codes. Soon after, he started learning machine learning and then cryptology.
+| Language |Skills                                          |Self Score |
+|----------|------------------------------------------------|-----------|
+|Java      |Android, Java Apps                              |10/10      |
+|Kotlin    |Android, Kotlin Apps, Multiplatform, Cryptology |10/10      |
+|JS        |Web Frontend, Node.js                           |9/10       |
+|PHP       |Web Backend                                     |8/10       |
+|C#        |Windows Forms, Unity                            |7/10       |
+|Python    |Machine Learning                                |4/10       |
 ---
 | Database |Skills                               |Self Score |
 |----------|-------------------------------------|-----------|
