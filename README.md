@@ -10,13 +10,6 @@ Ron first started programming mods for games and eventually found himself dabbli
 |C#        |Windows Forms, Unity                            |7/10       |
 |Python    |Machine Learning                                |4/10       |
 ---
-| Database |Skills                               |Self Score |
-|----------|-------------------------------------|-----------|
-|MySQL     |Query, Select, Join, etc.            |8/10       |
-|Postgres  |Query, Select, Join, etc.            |7/10       |
-|NoSQL     |Query, Select, Sharding, etc.        |6/10       |
-|DynamoDB  |Query, Select, Update, Sharding, etc.|9/10       |
----
 | General Interest ||
 |----------|-------------------------------------|
 |Machine Learning|AI, CNN, DNN, TensorFlow       |
