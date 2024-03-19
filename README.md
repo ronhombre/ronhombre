@@ -1,6 +1,6 @@
 # Ron Lauren Hombre
 ## Bio
-Ron first started programming mods for games and eventually found himself dabbling in industry-level codes. Soon after, he started learning machine learning and then cryptology.
+Ron first started programming mods for games and eventually found himself dabbling in industry-level codes. With his newfound experiences, he started learning machine learning and cryptology.
 | Language |Skills                                          |Self Score |
 |----------|------------------------------------------------|-----------|
 |Java      |Android, Java Apps                              |10/10      |
