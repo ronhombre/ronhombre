@@ -6,7 +6,7 @@ Ron first started programming mods for games and eventually found himself dabbli
 |Java      |Android, Java Apps                                           |10/10      |
 |Kotlin    |Android, Kotlin Apps, Multiplatform, Cryptology, Web Backend |10/10      |
 |JS        |Web Frontend, Node.js                                        |10/10      |
-|PHP       |Web Backend                                                  |8/10       |
+|PHP       |Web Backend, Wordpress                                       |8/10       |
 |C#        |Windows Forms, Unity                                         |8/10       |
 |Python    |Machine Learning                                             |6/10       |
 |Rust      |GPU Computing, Cryptology, Machine Learning                  |2/10       |
