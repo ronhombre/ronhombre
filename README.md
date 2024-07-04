@@ -1,6 +1,6 @@
 # Ron Lauren Hombre
 ## Bio
-Ron first started programming mods for games and eventually found himself dabbling in industry-level codes. With his newfound experiences, he started learning machine learning and cryptology. These two subjects required knowledge of GPU Computing, as such, he ended up learning Nvidia CUDA using Rust.
+Ron first started programming mods for games and eventually found himself dabbling in industry-level codes. With his newfound experiences, he started learning machine learning and cryptology. These two subjects required knowledge of Parallel Computing, as such, he ended up learning Nvidia CUDA using Rust.
 | Language |Skills                                                       |Self Score |
 |----------|-------------------------------------------------------------|-----------|
 |Java      |Android, Java Apps                                           |10/10      |
