@@ -9,7 +9,8 @@ Ron first started programming mods for games and eventually found himself dabbli
 |PHP       |Web Backend, Wordpress                                       |8/10       |
 |C#        |Windows Forms, Unity                                         |8/10       |
 |Python    |Machine Learning                                             |6/10       |
-|Rust      |GPU Computing, Cryptology, Machine Learning                  |2/10       |
+|Rust      |GPU Computing, Cryptology, Machine Learning                  |3/10       |
+|R         |Data Analysis                  |2/10       |
 ---
 | General Interest ||
 |----------|-------------------------------------|
